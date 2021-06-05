@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# SuperSimpleSystem RPG
+SuperSimpleSystem RPG is a lightweight and minimal rules system for tabletop role play games. It is intended to bring the joy of role playing to both beginners (like children) and RPG enthusiasts at the same time.
 
-You can use the [editor on GitHub](https://github.com/TheBlackWolfPack/SuperSimpleSystem-RPG/edit/gh_pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheBlackWolfPack/SuperSimpleSystem-RPG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+SuperSimpleSystem RPG by [TheBlackWolfPack](https://theblackwolfpack.github.io/) is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
