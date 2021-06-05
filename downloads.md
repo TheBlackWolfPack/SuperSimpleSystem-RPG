@@ -1,4 +1,4 @@
-#Downloads
+# Downloads
 ## Core Rule Books
 ~~[DE - Deutsches Regelwerk](de_core_rules.pdf)~~ (work in progress)  
 ~~[EN - English rule book](en_core_rules.pdf)~~ (work in progress)
