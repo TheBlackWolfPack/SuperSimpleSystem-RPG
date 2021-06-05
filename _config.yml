@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+name: "SuperSimpleSystem RPG"
+description: "SuperSimpleSystem RPG is a lightweight and minimal rules system for tabletop role play games."
+title: "SuperSimpleSystem RPG"
+url: "https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/"
+markdown: kramdown
