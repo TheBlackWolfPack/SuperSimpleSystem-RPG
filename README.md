@@ -3,6 +3,7 @@ SuperSimpleSystem RPG is a lightweight and minimal rules system for tabletop rol
 
 # License
 SuperSimpleSystem RPG is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
+A plain text version of the license is included in this repository: [LICENSE](LICENSE)
 
 # Code of conduct
 We value our community a lot! So we ask everyone to be nice and follow our [code of conduct](CODE_OF_CONDUCT.md).
