@@ -14,7 +14,7 @@
 # Items
 
 # Adventures
-[Adentures Collection](./adventures)
+[SSS RPG Adentures Collection](./adventures) - the official SuperSimpleSystem RPG adventures collection
 
 # Tools
 [NBOS Character Sheet Designer](https://nbos.com/products/character-sheet) - free character sheet creation tool (that's what we use to create our character sheets)  
