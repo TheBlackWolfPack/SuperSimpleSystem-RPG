@@ -2,14 +2,14 @@
 On this page we are collecting all kinds of adventures that can be played with SuperSimpleSystem RPG.  
 Many of them are (and will be) created by our community.
 
-## Fantasy
-
-## Science Fiction
-
 ## Apocalypse
+
+## Fantasy
 
 ## Fun & Action
 
-## Child-friendly
+## kids & family
 
 ## Other
+
+## Science Fiction
