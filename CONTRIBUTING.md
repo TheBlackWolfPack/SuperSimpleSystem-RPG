@@ -21,6 +21,9 @@ Our website is livining in a dedicated repository on github: [gh_pages](https://
 You can contribute to our website the same way following the principles. The only difference is to create your branch based on the branch "gh_pages".  
 Most of our webite is created by using markdown files and an automated github action to translate them to HTML and show them on the internet.
 
+### wiki
+You can contribute to our wiki by writing new articles or improving existing ones. To do so [contact us](mailto:SuperSimpleSystemRPG@gmail.com) so that we can add you to our editors team.
+
 ## still having questions?
 If you need any more detailed information on how to contribute
 * [Forking a repository](https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists/forking-and-cloning-gists)
