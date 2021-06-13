@@ -3,6 +3,7 @@
 ~~[EN - English rule book](en_core_rules.pdf)~~ (work in progress)
 
 # Character Sheets
+[basic](./filebase/CharacterSheets_basic.zip) - a basic set of character sheets to be used with SSS RPG (featuring "Fantasy" rule set only at the moment)
 
 # Races
 
