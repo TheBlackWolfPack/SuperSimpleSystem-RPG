@@ -9,8 +9,6 @@ Eine Kopie der Lizenz kann unter [http://creativecommons.org/licenses/by-sa/4.0/
 ![CC-by-SA button](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 Weitere Infos unter [https://theblackwolfpack.github.io/SuperSimpleSystem-RPG](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG)
 
----
-
 ## 2 Die Grundregeln im Überblick
 
 ### 2.1 Würfelprobe
@@ -21,8 +19,6 @@ Ein Würfelergebnis von 1 stellt dabei einen "kritischen Erfolg", also ein beson
 
 #### 2.1.2 kritisher Misserfolg
 Das Gegenstück zum kritischen Erfolg sellt der "kritische Misserfolg" dar. Also eine besonders missglückte Handlung. Dieser tritt bei einem Würfelergebnsis von 20 ein. Auch hier entscheidet der Spielleiter über die Asuwirkung. Beispielsweise könnte ein Anriff den Angreifer selbst oder einen Mitspieler treffen. Oder man stößt beim Anschleichen einen Stapel Geschirr um.
-
----
 
 ## 3 Schaden und Heilung
 Wie in jedem Rollenspiel werden die Spieler früher oder später Verletzungen oder Vergiftungen erleiden. Sei es im Kampf oder bei einem Sturz oder Unfall. Der erlittene Schaden wird dabei von den Trefferpunkten ("Lebenskraft") des Charakters (siehe Kapitel [***5 Dein Charakterbogen***](#5-dein-charakterbogen)) abgezogen.
@@ -52,8 +48,6 @@ Wunden, Brüche und sonstige Verletzungen werden durch einmaliges rasten oder sc
 #### 3.2.2 Hilfsmittel
 Durch Hilfsmittel wie Verbände, Wundauflagen, Tränke, Zauber, Medikamente oder Ähnliches lässt sich der Heilungsprozess beschleunigen. Diese Hilfsmittel stellen entweder eine bestimmte Anzahl Trefferpunkte wieder her oder entfernen bestimmte Statuseffekte. (z.B. vergiftet, gelähmt, blind)  
 Für Hilfsmittel ist keine Würfelprobe erforderlich. Die Wirkung ergibt sich aus der Beschreibung des Hilfsmittels. Wenn Du Dir nicht sicher bist frag Deinen Spielleiter oder Deine Spielleiterin.
-
----
 
 ## 4 Spielablauf
 
@@ -90,8 +84,6 @@ Die Helden können - je nach ihren Fertigkeiten - unterschiedliche Hanldungen au
 Spielleiterinnen und Spielleitern kommt in Rollenspielen eine zentrale Rolle zu. Ihnen obliegt es die Spieler durch die Geschichte zu führen, alle Nicht-Spieler-Figuren zu spielen sowie darüber zu entscheiden was möglich ist und was nicht. Die Entscheidungen der Spielleitung sind bindend und stehen nicht zur Diskussion. Sollte Dir Dein Spielleiter oder Deine Spielleiterin eine Aktion nicht erlauben hat das bestimmt einen guten Grund.  
 Möchtest Du selbst einmal die Spielleitung übernehmen, dann lies bitte unser [Spielleiterhandbuch](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/de_game_masters_guide.pdf). Darin findest Du alle Informationen die Du brauchst um Dein erstes Abenteuer zu leiten.
 
----
-
 ## 5 Dein Charakterbogen
 Für jede Figur die Du im Rollenspiel verkörpern möchtest benötigst Du einen Charakterbogen. Dabei kann es sich um ein einfaches Blatt Papier handeln auf dem Du alle wichtigen Informationen aufschreibst, einen vorgefertigten Ausdruck in den Du nur die Werte eintragen musst oder auch um eine digitale Ausgabe auf Deinem Smartphone, Tablet oder PC.
 Vorgefertigte Charakterbögen findest Du unter anderem auf unserer [Downloadseite](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#character-sheets)
@@ -120,24 +112,9 @@ Vorgefertigte Charakterbögen findest Du unter anderem auf unserer [Downloadseit
 Die Eigenschafts- und Talentwerte werden einmalig bei der Charaktererstellung gewürfelt. Für jeden Eintrag würfelst Du mit drei sechsseitigen Würfeln (3W6). Somit kann jede Deiner Eigenschaften und Talente einen Wert zwischen 3 und 18 bekommen. Du kannst bei jedem Wurf entscheiden welchem Eigenschafts- oder Talentwert Du diesen zuweisen möchtest. Aber ein Wert der einmal zugewiesen ist kann dann nicht mehr geändert werden.
 Im Verlauf eines Abenteuers wirst Du viele Würfelproben auf diese Werte durchführen.
 
-#### 5.2.1 Ausdauer
-Ausdauer ist wichtig bei längeren, körperlich anstrengenden Tätigkeiten. Beispielsweise kannst Du umso länger bzw. schneller laufen je besser Deine Ausdauer ist. Auch anstrengende handwerkliche Tätigkeiten gehen Dir leichter von der Hand wenn Du eine bessere Ausdauer hast.
-
-#### 5.2.2 Charisma
-Bist Du ein feiner Pinkel oder ein grobschlächtiger Rabauke? Nehmen Dich Deine Begleiter als starken und pflichtbewussten Anführer wahr oder suchen sie lieber bei der erstbesten Gelegenheit das Weite? Die Antwort darauf hängt ganz davon ab wie charismatisch Du bist. Je höher Dein Charisma desto mehr Ansehen wirst Du genießen und desto eher glaubt man Dir was Du sagst.
-
-#### 5.2.3 Geschicklichkeit
-Ob Du ein Tollpatsch oder ein Meister der Körperbeherrschung bist zeigt sich mit Deinem Geschicklichkeitswert. Je besser dieser ist, desto besser stehen Deine Chancen zum Beispiel mit Deinem Bogen das gewünschte Ziel zu treffen.
-
-#### 5.2.4 Intelligenz
-Egal ob Du jahrelang Bücher studiert oder durch Ausprobieren an Dein Wissen gelangt bist. Eines steht fest: was Du einmal gelernt hast, kann Dir niemand mehr nehmen. Lesen, schreiben und rechnen tragen dazu bei Dich weiter fortzubilden. Je mehr Du das machst desto intelligenter wirst Du. Aber auch Lebenserfahrung steigert Dein Wissen und Deine Intelligenz. Und die braucht es um alchemistische Rezepte oder Bauanleitungen für Waffen zu verstehen. Auch aufgestellte Fallen funktionieren besser wenn sie gut durchdacht sind.
-
-#### 5.2.5 Körperkraft
-Bist Du ein Kraftpaket oder doch eher ein zartes Mauerblümmchen? Ein Schwertkämpfer wird seine Waffe nur sicher führen können, wenn er auch stark genug dazu ist. Auch manche handwerklichen Tätigkeiten erfordern einiges an Kraft. Ein wenig Muskeltraining kann also nicht schaden. Für filigrane Zauber braucht es hingegen die Kraft des Geistes, nicht des Körpers.
-
 ### 5.3 Fertigkeiten
 Neben den Eigenschaften und Talenten Deiness Charakters kann dieser noch weitere angeborene oder erlernte Fertigkeiten besitzen. Beispielsweise ist einem Werwolf angeboren, dass er seine Gestalt verändern kann. Das brauen von Tränken hingegen will gelernt sein.  
-Jede Rasse und Klasse hat angeborene oder bei Charaktererstellung bereits erlernte Fertigkeiten. Die Details dazu findest Du in den [Fertigkeitsbeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#skills).  
+Jede Rasse und Klasse hat angeborene oder bei Charaktererstellung bereits erlernte Fertigkeiten. Die Details dazu findest Du in den Fertigkeitsbeschreibungen des jeweiligen Regelwerkes zu Deiner Spielwelt.
 Der Bereich Fertigkeiten auf Deinem Charakterbogen gliedert sich in drei Spalten:
 
 #### 5.3.1 Fertigkeit
@@ -157,20 +134,16 @@ Es ist ratsam das Training direkt nach Abschluss des Abenteuers in Abstimmung mi
 
 #### 5.4.1 direkt steigerbare Eigenschaften und Talente
 Bestimmte Eigenschaften und Talente lassen sich direkt mittels Steigerungspunkten verbessern. Eine Verbesserung durch einen Stufenaufstieg erfolgt bei diesen nicht.  
-Eigenschaft/Talent | einzusetzende Steigerungspunkte | maximaler Eigenschafts- / Talentwert
--------------------|---------------------------------|--------------------------------------
-Ausdauer | 3 | 18
-Körperkraft | 4 | 18
 
 #### 5.4.2 direkt steigerbare Fertigkeiten
-Auch manche Fertigkeiten lassen sich direkt unter Einsatz von Steigerungspunkten verbessern. Eine indirekte Steigerung mittels Stufenaufstieg erfolgt dabei in der Regel dann nicht. Die Details findest Du in der ausführlichen Beschreibung der jeweiligen Fertigkeit in den [Fertigkeitsbeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#skills).
+Auch manche Fertigkeiten lassen sich direkt unter Einsatz von Steigerungspunkten verbessern. Eine indirekte Steigerung mittels Stufenaufstieg erfolgt dabei in der Regel dann nicht. Die Details findest Du in der ausführlichen Beschreibung der jeweiligen Fertigkeit in den Fertigkeitsbeschreibungen des jeweiligen Regelwerkes zu Deiner Spielwelt.
 
 #### 5.4.3 Stufenaufstieg
 Eigenschaften, Talente und Fertigkeiten welche nicht direkt trainiert werden können verbessern sich wenn Dein Charakter eine Stufe aufsteigt. Jeder neue Charakter beginnt dabei in der Stufe 0 und kann bis zur Stufe 10 aufsteigen.  
-Der Stufenaufstieg erfolgt ähnlich wie das Training durch den Einsatz von Steigerungspunkten. Wieviel Punkte Du einsetzten musst ist dabei abhänging von Rasse und Klasse Deines Charakters. Ganz allgemein gilt: je höher die aktuelle Stufe Deines Charakters bereits ist, desto mehr Steigerungspunkte benötigst Du um in die nächste aufzusteigen. Die Details dazu findest Du in den entsprechenden [Rasse-](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#races) und [Klassebeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#classes).
+Der Stufenaufstieg erfolgt ähnlich wie das Training durch den Einsatz von Steigerungspunkten. Wieviel Punkte Du einsetzten musst ist dabei abhänging von Rasse und Klasse Deines Charakters. Ganz allgemein gilt: je höher die aktuelle Stufe Deines Charakters bereits ist, desto mehr Steigerungspunkte benötigst Du um in die nächste aufzusteigen. Die Details dazu findest Du in den entsprechenden Rasse- und Klassebeschreibungen des Regelwerkes zu Deiner Spielwelt.
 
 ### 5.5 Erlernen neuer Fertigkeiten
-Im Verlaufe Deiner Abenteuer wirst Du immer wieder die Gelegenheit bekommen neue Fertigkeiten zu erlernen. Manche der Fertigkeiten können nur ab einer bestimmten Stufe oder nur von Charakteren einer bestimmten Rasse und/oder Klasse erlernt werden. Alle Details dazu sowie die genauen Beschreibungen aller Fertigkeiten findest Du in den [Fertigkeitsbeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#skills).  
+Im Verlaufe Deiner Abenteuer wirst Du immer wieder die Gelegenheit bekommen neue Fertigkeiten zu erlernen. Manche der Fertigkeiten können nur ab einer bestimmten Stufe oder nur von Charakteren einer bestimmten Rasse und/oder Klasse erlernt werden. Alle Details dazu sowie die genauen Beschreibungen aller Fertigkeiten findest Du in den Fertigkeitsbeschreibungen des jeweiligen Regelwerkes zu Deiner Spielwelt.  
 
 #### 5.5.1 Bauanleitungen für Ausrüstung
 Entsprechendes Geschick und Material vorausgesetzt, kannst Du mit Hilfe von Bauanleitungen neue Ausrüstungsgegenstände selbst herstellen. Du wirst immer wieder mal auf Leute treffen die Dir entweder eine fertige Bauanleitung verkaufen oder die Dir die entsprechende Fertigkeit lehren (und Du Dir dabei selbst die Bauanleitung schreibst). Manchmal erhältst Du auch eine Bauanleitung als Belohnung für eine Aufgabe die Du für jemanden erledigt hast. Oder Du bist ein richtiger Glückspilz und findest eine Bauanleitung irgendwo versteckt.  
@@ -189,7 +162,7 @@ Möchtest Du einen neuen Zauber erlernen sprich mit Deinem Spielleiter oder Dein
 
 #### 5.5.4 Sonstiges
 Natürlich gibt es noch viele weitere Fertigkeiten, die Dein Charakter erlangen kann. Seien es angeborene Fähigkeiten wie die Gestaltwandlung von Werwölfen oder erlernbare wie Taschendiebstahl oder Fallen zu stellen.  
-Du findest alle Fertigkeiten in den [Fertigkeitsbeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#skills). Für jede Fertigkeit ist dort ausgewiesen ob diese angeboren ist oder aber erlernt werden kann.
+Du findest alle Fertigkeiten in den Fertigkeitsbeschreibungen des jeweiligen Regelwerkes zu Deiner Spielwelt. Für jede Fertigkeit ist dort ausgewiesen ob diese angeboren ist oder aber erlernt werden kann.
 
 ## 6 das Abenteuer beginnt
 Nun solltest Du Deinen Charakter erschaffen haben und kennst alle Regeln um in Dein erstes Abenteuer zu starten!  
@@ -203,8 +176,7 @@ Auf unserer Website haben wir eine eigene Rubrik [Abenteuer](https://theblackwol
 Aber natürlich kannst Du auch jederzeit Deine eigene Welt erschaffen und darin die verrücktesten Abenteuer bestreiten. Und wenn Du auch andere an Deinen Abenteuern teilhaben lassen möchtest, kannst Du es gerne mit uns teilen und es erscheint dann für Andere in unserer [Abenteuerliste](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/adventures).
 
 ## 7 Schlussbemerkungen
-
-Mit dem hier vorliegenden Grundregelwerk bist Du in der Lage jedes Spiel nach dem "SuperSimpleSystem Rollenspiel" zu spielen. Darüber hinaus solltest Du Dich aber noch mit den [Rasse-](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#races) und [Klassebeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#classes) sowie den [Fertigkeitsbeschreibungen](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#skills) auseinandersetzten. Dort findest Du viele weiterführende Informationen, die Dir im weiteren Spielverlauf helfen werden. Beastarien mit der Beschreibung aller möglicher Tiere und Monster sind noch in Planung. Da diese stark von der Spielwelt abhängig sind werden diese aber Umfang der [Abenteuer](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/adventures) sein.
+Mit dem hier vorliegenden Grundregelwerk bist Du in der Lage jedes Spiel nach dem "SuperSimpleSystem Rollenspiel" zu spielen. Darüber hinaus solltest Du Dich aber noch mit den Rasse- und Klassebeschreibungen sowie den Fertigkeitsbeschreibungen des jeweiligen Regelwerkes zu Deiner Spielwelt auseinandersetzten. Dort findest Du viele weiterführende Informationen, die Dir im weiteren Spielverlauf helfen werden. Gegebenenfalls werden diese noch durch zusätzliche Information in einzelnen [Abenteueren](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/adventures) ergänzt.
 
 ### 7.1 Fehler
 Das hier vorliegende Basis-Regelwerk wurde von Menschen geschrieben. Daher können wir - auch nach eingehender Prüfung - nicht gänzlich ausschließen, dass sich doch noch irgendwo ein Fehlerteufelchen eingeschlichen hat. Oder es in bestimmten Spielsituationen zu Unklarheiten kommt. Sollte Dir etwas aufgefallen sein lass es uns doch bitte wissen. Entweder Du erstellt einen neuen [Fehlerbericht auf Github](https://github.com/TheBlackWolfPack/SuperSimpleSystem-RPG/issues/new?assignees=&labels=&template=bug_report.md) oder Du schickst uns eine [Email mit der Fehlerbeschreibung](mailto:SuperSimpleSystemRPG@gmail.com) dazu.
