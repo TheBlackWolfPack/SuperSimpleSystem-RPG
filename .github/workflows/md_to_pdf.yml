@@ -12,6 +12,8 @@ on:
     paths:
       - 'CoreRules/**.md'
       - 'CoreRules/images/**'
+      - 'RuleSets/**/**.md'
+      - 'RuleSets/**/images/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -38,3 +40,23 @@ jobs:
         with:
           name: CoreRules
           path: processedCoreRules
+  ruleset_Fantasy:
+    # name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: RuleSets/Fantasy
+          output_dir: processedRulesetFantasy
+          images_dir: RuleSets/Fantasy/images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          # build_html: false
+          theme: RuleSets/Fantasy/process.css
+          template: RuleSets/Fantasy/process.html
+      - uses: actions/upload-artifact@v1
+        with:
+          name: Ruleset_Fantasy
+          path: processedRulesetFantasy
