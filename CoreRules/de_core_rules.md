@@ -90,23 +90,10 @@ Vorgefertigte Charakterbögen findest Du unter anderem auf unserer [Downloadseit
 
 ### 5.1 Überblick über den Charakterbogen
 ![Charakterbogen Vorderseite](./images/SSS_RPG_CharacterSheetSample_Front.png)  
-1 Bild Deines Charakters | 
-2 Name Deines Charakters | 
-3 Rasse Deines Charakters | 
-4 Klasse Deines Charakters | 
-5 Alter Deines Charakters | 
-6 aktuell verfügbare Steigerungspunkte | 
-7 aktuelle Stufe Deines Charakters | 
-8 aktuelle Trefferpunkte | 
-9 verfügbare Aktionspunkte | 
-10 aktuelle Rüstungspunkte | 
-11 Eigenschaften und Talente Deines Charakters | 
-12 mitgeführte Ausrüstung Deines Charakters | 
-13 die Fertigkeiten Deines Charakters
+1 Bild Deines Charakters | 2 Name Deines Charakters | 3 Rasse Deines Charakters | 4 Klasse Deines Charakters | 5 Alter Deines Charakters | 6 aktuell verfügbare Steigerungspunkte | 7 aktuelle Stufe Deines Charakters | 8 aktuelle Trefferpunkte | 9 verfügbare Aktionspunkte | 10 aktuelle Rüstungspunkte | 11 Eigenschaften und Talente Deines Charakters | 12 mitgeführte Ausrüstung Deines Charakters | 13 die Fertigkeiten Deines Charakters  
   
 ![Charakterbogen Rückseite](./images/SSS_RPG_CharacterSheetSample_Back.png)  
-14 die Hintergrundgeschichte Deines Charakters | 
-15 die aktullen Begleiter Deines Charakters
+14 die Hintergrundgeschichte Deines Charakters | 15 die aktullen Begleiter Deines Charakters  
 
 ### 5.2 Eigenschaften und Talente
 Die Eigenschafts- und Talentwerte werden einmalig bei der Charaktererstellung gewürfelt. Für jeden Eintrag würfelst Du mit drei sechsseitigen Würfeln (3W6). Somit kann jede Deiner Eigenschaften und Talente einen Wert zwischen 3 und 18 bekommen. Du kannst bei jedem Wurf entscheiden welchem Eigenschafts- oder Talentwert Du diesen zuweisen möchtest. Aber ein Wert der einmal zugewiesen ist kann dann nicht mehr geändert werden.
