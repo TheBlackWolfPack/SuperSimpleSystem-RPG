@@ -10,9 +10,9 @@ on:
       - main
       - action_test
 
-#  paths:
-#    - 'CoreRules/**.md'
-#    - 'CoreRules/images/**'
+  paths:
+    - 'CoreRules/**.md'
+    - 'CoreRules/images/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -24,16 +24,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      #- uses: baileyjm02/markdown-to-pdf@v1
-      #  with:
-      #    input_dir: CoreRules
-      #    output_dir: processed/CoreRules
-      #    images_dir: CoreRules/images
-      #    # for example <img src="./images/file-name.png">
-      #    image_import: ./images
-      #    # Default is true, can set to false to only get PDF files
-      #    # build_html: false
-      #- uses: actions/upload-artifact@v1
-      #  with:
-      #    name: CoreRules
-      #    path: processed/CoreRules
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: CoreRules
+          output_dir: processed/CoreRules
+          images_dir: CoreRules/images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          # build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: CoreRules
+          path: processed/CoreRules
