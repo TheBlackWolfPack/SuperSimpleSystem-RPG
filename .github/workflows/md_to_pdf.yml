@@ -27,7 +27,7 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: CoreRules
-          output_dir: processed/CoreRules
+          output_dir: processedCoreRules
           images_dir: CoreRules/images
           # for example <img src="./images/file-name.png">
           image_import: ./images
@@ -35,5 +35,5 @@ jobs:
           # build_html: false
       - uses: actions/upload-artifact@v1
         with:
-          name: CoreRules
-          path: processed/CoreRules
+          name: CoreRulesPDF
+          path: processedCoreRules
