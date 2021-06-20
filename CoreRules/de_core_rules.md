@@ -89,7 +89,7 @@ Für jede Figur die Du im Rollenspiel verkörpern möchtest benötigst Du einen 
 Vorgefertigte Charakterbögen findest Du unter anderem auf unserer [Downloadseite](https://theblackwolfpack.github.io/SuperSimpleSystem-RPG/downloads#character-sheets)
 
 ### 5.1 Überblick über den Charakterbogen
-![Charakterbogen Vorderseite](images/SSS_RPG_CharacterSheetSample_Front.png)  
+![Charakterbogen Vorderseite](./images/SSS_RPG_CharacterSheetSample_Front.png)  
 1 Bild Deines Charakters | 
 2 Name Deines Charakters | 
 3 Rasse Deines Charakters | 
@@ -104,7 +104,7 @@ Vorgefertigte Charakterbögen findest Du unter anderem auf unserer [Downloadseit
 12 mitgeführte Ausrüstung Deines Charakters | 
 13 die Fertigkeiten Deines Charakters
   
-![Charakterbogen Rückseite](images/SSS_RPG_CharacterSheetSample_Back.png)  
+![Charakterbogen Rückseite](./images/SSS_RPG_CharacterSheetSample_Back.png)  
 14 die Hintergrundgeschichte Deines Charakters | 
 15 die aktullen Begleiter Deines Charakters
 
