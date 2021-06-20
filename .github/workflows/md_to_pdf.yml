@@ -32,6 +32,7 @@ jobs:
           image_import: ./images
           # Default is true, can set to false to only get PDF files
           # build_html: false
+          theme: CoreRules/process.css
       - uses: actions/upload-artifact@v1
         with:
           name: CoreRules
