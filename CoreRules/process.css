@@ -224,7 +224,6 @@ h6 {
 
 h1 {
   font-size: 32px;
-  @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch');
   font-family: 'Cabin Sketch', cursive;
 }
 
