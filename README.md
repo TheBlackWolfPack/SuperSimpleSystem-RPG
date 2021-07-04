@@ -6,4 +6,4 @@ SuperSimpleSystem RPG by [TheBlackWolfPack](https://theblackwolfpack.github.io/)
 # Downloads
 Find all the relevant documents about SSS RPG on our [Download Page](./downloads).  
 Like the core rule books, description of races, classes, skills and items.  
-All kinds if adventures supported by the SuperSimpleSystem RPG can be found in the [Adventure Collection](./adventures).
+All kinds of adventures supported by the SuperSimpleSystem RPG can be found in the [Adventure Collection](./adventures).
